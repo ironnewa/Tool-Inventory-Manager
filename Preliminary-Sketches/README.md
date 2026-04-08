@@ -1,5 +1,5 @@
 ## Preliminary designs
- - Simple sketches for brainstorm and concept development
+ - Handwritten sketches for brainstorm and concept development
  - Early design sketchs - these do not represent the final build.
  - Many designs featured here may not be implemented.
 
