@@ -16,4 +16,3 @@ It's purpose is to help improve storage consistency and prevent tool misplacemen
 
 ## Software Dependencies
  - RPi OS
-    - For scheduling and GUI handling 
