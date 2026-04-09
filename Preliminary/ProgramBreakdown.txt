@@ -1,0 +1,25 @@
+This file maps the process of each program and flowchart process. It's use is for organization and planning.
+
+OS
+  - Handle keyboard inputs
+  - Handle GUI interfacing
+  - Handle outputs to box locks
+  - Handle RFID inputs
+
+Communication Protocol
+  - Mainly used for box locks
+    - Originally planned to do everything with I2C; however, I think CAN will work better for the locks
+  - I2C for anything close to the board.
+
+Keyboard
+  - User input
+  - Mainly used for navigation
+  - Admin accounts can use it for modification
+
+GUI
+  - LCD Screen
+  - Opens on boot
+  - Statemachine design
+  - Parallel states to separate Admin access.
+
+  
