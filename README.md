@@ -1,5 +1,5 @@
 # Tool-Inventory-Manager
-Design and implementation process of a tool organization device.
+WIP - Design and implementation process of a tool organization device.
 This system is in early development.
 
 ## General
