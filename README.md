@@ -10,7 +10,7 @@ It's purpose is to help improve storage consistency and prevent tool misplacemen
 ## Hardware
 
 | Component      | Details            | BOM #      | Notes                                                                             |
-| :------------- | :----------------: | :--------- | :-------------------------------------------------------------------------------- |
+| :------------- | :----------------- | :--------: | :-------------------------------------------------------------------------------- |
 | Processor      | RPI 4-B            | N/A        | This is overkill.                                                                 |
 | Display        | rPi HDMI 7" screen | B09MFNLRQQ |                                                                                   |
 | RFID           | 3.56MHz            | B01HFWQGVM | This will be expanded to a secondary scanner to include 125kHz in the future.     |
