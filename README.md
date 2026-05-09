@@ -19,3 +19,7 @@ It's purpose is to help improve storage consistency and prevent tool misplacemen
 </pre>
 ## Software Dependencies
  - RPi OS
+ - Qt C++
+
+ ## Disclaimer
+ - This uses a free license of Qt
