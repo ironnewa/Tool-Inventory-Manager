@@ -1,10 +1,10 @@
 # Tool-Inventory-Manager
-Design and implementation process of a tool organization device.
+Design and implementation of a tool organization device.
 This system is in early development.
 
 ## General
 This system is used to monitor tool inventory and usage. 
-It tracks tools usage via user RFID.
+It tracks tools usage via user ID-checkout logging.
 It's purpose is to help improve storage consistency and prevent tool misplacement.
 
 ## Hardware
