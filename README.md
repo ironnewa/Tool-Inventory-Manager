@@ -8,12 +8,12 @@ It tracks tools usage via user RFID.
 It's purpose is to help improve storage consistency and prevent tool misplacement.
 
 ## Hardware
- - Processor - RPI 4-B - This is overkill. I would like to move this onto a dedicated microcontroller in the future.
- - LCD - TBD - 
- - RFID - RC522 - This will be expanded to a secondary scanner to include 125kHz in the future.
- - I/O Peripherals - TBD - 
- - I2C Hub - TBD - Considering TxB0108
- - MagLock - TBD - Considering 1738-FIT0624-ND
-
+ - Processor      - RPI 4-B            - N/A        - This is overkill.
+ - Display        - rPi HDMI 7" screen - B09MFNLRQQ 
+ - RFID           - 3.56MHz            - B01HFWQGVM - This will be expanded to a secondary scanner to include 125kHz in the future.
+ - KBM            - mini rPi keyboard  - B07S7BQMRY 
+ - Relay Hub      - 8 channel relay    - B076CQJBSH
+ - Solenoid Locks - 12V/350mA          - B093H6GD4V
+   
 ## Software Dependencies
  - RPi OS
